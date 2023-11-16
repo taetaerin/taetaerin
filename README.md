@@ -1,7 +1,9 @@
 <!--<div align="center"> -->
   
 ## Hi there 👋
-I'm taerinKim
+<br/>
+I'm Studying in Programmers Devcourse Now
+
 
 ### Blog 📚
 <a href="https://velog.io/@taerin">![velog](https://img.shields.io/badge/velog-21C998?style=for-the-badge&logo=velog&logoColor=white)</a>
@@ -10,7 +12,7 @@ I'm taerinKim
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![ty](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![ty](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 <br/>
 ![react](https://img.shields.io/badge/React-1A8ABB?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![rn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -20,6 +22,7 @@ I'm taerinKim
 ![git](https://img.shields.io/badge/Git-FF6006?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<br/>
 
 <!-- </div> -->
 
