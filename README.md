@@ -26,7 +26,6 @@ I'm Studying in Programmers Devcourse Now
 
 <!-- </div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taetaerin&show_icons=true&theme=gruvbox)
 
 
 <!--
